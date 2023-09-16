@@ -9,7 +9,6 @@ public:
     string title;
     string author;
     int pages;
-    int rating;
 
 private:
     void addBook() {
@@ -24,8 +23,8 @@ private:
     void searchBook() {
     }
 
+
 };
-map <string, int> books;
 
 int main() {
 

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/demir/CLionProjects/Upgraded_LibraryManagementSystem
+# Install script for directory: C:/Users/demir/CLionProjects/04_UpgradedLibraryManagementSystem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/demir/CLionProjects/Upgraded_LibraryManagementSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/demir/CLionProjects/04_UpgradedLibraryManagementSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
